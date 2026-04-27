@@ -1,0 +1,54 @@
+id,recommendation
+e9a89645c03a,"{
+  ""trades"": [
+    {""action"": ""BUY"", ""ticker"": ""AUTX"", ""quantity"": 11},
+    {""action"": ""BUY"", ""ticker"": ""HOMR"", ""quantity"": 17},
+    {""action"": ""BUY"", ""ticker"": ""MEDC"", ""quantity"": 25},
+    {""action"": ""BUY"", ""ticker"": ""RETL"", ""quantity"": 11},
+    {""action"": ""BUY"", ""ticker"": ""SNAC"", ""quantity"": 20},
+    {""action"": ""STAY"", ""ticker"": ""CASH"", ""quantity"": 26.5}
+  ]
+}"
+062f069ee881,"{
+  ""trades"": [
+    {""action"": ""BUY"", ""ticker"": ""AUTX"", ""quantity"": 4},
+    {""action"": ""BUY"", ""ticker"": ""EVGO"", ""quantity"": 6},
+    {""action"": ""BUY"", ""ticker"": ""HOMR"", ""quantity"": 5},
+    {""action"": ""BUY"", ""ticker"": ""RETL"", ""quantity"": 6},
+    {""action"": ""BUY"", ""ticker"": ""SPCX"", ""quantity"": 3},
+    {""action"": ""BUY"", ""ticker"": ""MEDC"", ""quantity"": 4.58}
+  ]
+}"
+3e8b198d8f52,"{
+  ""trades"": [
+    {
+      ""action"": ""BUY"",
+      ""ticker"": ""MEDC"",
+      ""quantity"": 125.0
+    }
+  ]
+}"
+fd58b50ded71,"{
+  ""trades"": [
+    {
+      ""action"": ""STAY"",
+      ""ticker"": ""CASH"",
+      ""quantity"": 5000.0
+    }
+  ]
+}"
+75320ba3772a,"[{""action"": ""BUY"", ""ticker"": ""AUTX"", ""quantity"": 5}, {""action"": ""BUY"", ""ticker"": ""CRYP"", ""quantity"": 5}, {""action"": ""BUY"", ""ticker"": ""EVGO"", ""quantity"": 5}, {""action"": ""BUY"", ""ticker"": ""HOMR"", ""quantity"": 5}, {""action"": ""BUY"", ""ticker"": ""MEDC"", ""quantity"": 5}, {""action"": ""BUY"", ""ticker"": ""RETL"", ""quantity"": 5}, {""action"": ""BUY"", ""ticker"": ""SNAC"", ""quantity"": 5}, {""action"": ""BUY"", ""ticker"": ""SPCX"", ""quantity"": 5}, {""action"": ""BUY"", ""ticker"": ""TECH"", ""quantity"": 5}]"
+a110dc58d479,"[{""action"": ""SELL"", ""ticker"": ""AUTX"", ""quantity"": 5}, {""action"": ""SELL"", ""ticker"": ""EVGO"", ""quantity"": 5}, {""action"": ""SELL"", ""ticker"": ""CRYP"", ""quantity"": 5}]"
+b2d9748c08b6,"{""trades"":[{""action"":""BUY"",""ticker"":""AUTX"",""quantity"":20},{""action"":""BUY"",""ticker"":""MEDC"",""quantity"":60},{""action"":""BUY"",""ticker"":""SNAC"",""quantity"":12}]}"
+5815702c0172,"[{""action"": ""STAY"", ""ticker"": ""CASH"", ""quantity"": 5000}]"
+72cefd2656e9,HARDCODED_STAY
+3197ef55d61d,"{""trades"": []}"
+6566e81f1de7,"{""trades"": []}"
+d9e9df122596,"{""trades"": []}"
+4e06e17f644d,"{""trades"": []}"
+11dc393c5023,"{""trades"": [{""action"": ""STAY"", ""ticker"": ""UNKNOWN"", ""quantity"": 0}]}"
+11dc393c5023,"{""trades"": []}"
+4245571ff82b,"[{""action"": ""STAY"", ""ticker"": ""AAPL"", ""quantity"": 0}]"
+c8a84c17c011,"[{""action"": ""STAY"", ""ticker"": ""AAPL"", ""quantity"": 0}]"
+e26e199eff97,"[{""action"": ""STAY"", ""ticker"": null, ""quantity"": 0}]"
+1ed658823556,"[{""action"": ""STAY"", ""ticker"": ""AUTX"", ""quantity"": 0}]"
